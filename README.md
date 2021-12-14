@@ -22,20 +22,9 @@ During initial analysis, https://inloop.github.io/sqlite-viewer/ was used to exp
 
 On top of doing W.Avy's requests, I was also interested in seeing the statistics over the entire data set. To my surprise, the stats were impressive. I have included them below. 
 
-
+## Summary:
 Though the statistics above paint a positive picture and give us most of information needed to make good decisions, it might be a good idea to have the statistics broke up into the number of days as well as percentages. The following questions should be answered: 
 
 1) How many days does it rain in Oaha? What is this as a percent?
 2) When it rains, how long does it ran?
 3) What percentage of days is the temperature not good for surfing or over 70 degrees for tourists to come out?
-  
-
-
-
-## Summary:
-
-Two recommendations for further analysis.
-The analysis should contain the following:
-1.	Overview of the analysis: Explain the purpose of this analysis.
-2.	Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
-3.	Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
